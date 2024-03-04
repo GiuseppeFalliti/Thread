@@ -35,11 +35,6 @@ Il codice è costituito da diverse parti:
 Questo progetto è stato sviluppato da [Giuseppe Falliti](https://github.com/GiuseppeFalliti).
 
 #### Licenza
-Questo progetto è distribuito con licenza [Inserire la tua scelta di licenza].
-
-#### Contatti
-Per domande o commenti, contattare [il tuo indirizzo email].
+Questo progetto è distribuito con licenza [MIT License].
 
 ### Fine del README
-
-Sostituisci i placeholder come `[Inserire la tua scelta di licenza]`, `[il tuo indirizzo email]`, `[Il tuo nome]` con le informazioni appropriate. Assicurati di personalizzare il README con dettagli pertinenti sul progetto e le istruzioni per l'utilizzo.
